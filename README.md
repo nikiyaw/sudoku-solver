@@ -6,5 +6,9 @@ Rules of the game: Fill in all the empty cells with the numbers 1 to 9 but also 
 
 The completed function will be able to take in a list of lists that looks like this:
 
-[[v00, v01, v02, ..., v08],
+[ [v00, v01, v02, ..., v08],
+  [v10, v11, v12, ..., v18],
+  ...
+  ...
+  [v80, v81, v82, ..., v88] ]
  
